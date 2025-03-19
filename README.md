@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me insta-ak_bhati_18
 - ⚡ Fun fact: just started coding, not intrested but now gg <br>
-lets learn 
+lets 
 
 <!---
 AnkitBhati06/AnkitBhati06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
